@@ -1,6 +1,4 @@
 # Granito
-![Uploading screenshot copy.png…]()
-
 
 ====================
 
