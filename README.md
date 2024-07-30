@@ -1,6 +1,7 @@
 # Granito
+![Uploading screenshot copy.png…]()
 
- README for Granito
+
 ====================
 
 This archive contains various files related to the Granito project. Below is a description of some key files and directories:
